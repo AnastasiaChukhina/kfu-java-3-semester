@@ -1,0 +1,91 @@
+/* buttons */
+
+.buttons{
+    width: 60vw;
+}
+
+#rgbButton{
+    background-color: #e976b5c0;
+    color: white;
+    border: 0.5px solid rgba(0, 0, 0, 0.05);
+    width: 80px;
+}
+
+#rgbButton:hover,
+#rgbButton:focus,
+#rgbButton:visited{
+background-color: #e976b5e3;
+color: white;
+}
+
+#orangeButton{
+    background-color: #e99a76bd;
+    color: white;
+    border: 0.5px solid rgba(0, 0, 0, 0.05);
+    width: 80px;
+}
+
+#orangeButton:hover,
+#orangeButton:focus,
+#orangeButton:visited{
+background-color: #e99a76e3;
+color: white;
+}
+
+#skyButton{
+    background-color: #84dfd8c4;
+    color: white;
+    border: 0.5px solid rgba(0, 0, 0, 0.05);
+    width: 80px;
+}
+
+#skyButton:hover,
+#skyButton:focus,
+#skyButton:visited{
+background-color: #84dfd8e0;
+color: white;
+}
+
+#blueButton{
+    background-color: #7099f0c0;
+    color: white;
+    border: 0.5px solid rgba(0, 0, 0, 0.05);
+    width: 80px;
+}
+
+#blueButton:hover,
+#blueButton:focus,
+#blueButton:visited{
+background-color: #7099f0e3;
+color: white;
+}
+
+#violetButton{
+    background-color: #b46ceba8;
+    color: white;
+    border: 0.5px solid rgba(0, 0, 0, 0.05);
+    width: 80px;
+}
+
+#violetButton:hover,
+#violetButton:focus,
+#violetButton:visited{
+background-color: #b46cebd3;
+color: white;
+}
+
+/* buttons */
+
+/* circle */
+
+.circle{
+    height: 100px;
+    width: 100px;
+    left: 0px;
+    background-color: #b46cebc2;
+    border-radius: 50%;
+    position: absolute;
+    top: 0px;
+}
+
+/* circle */
